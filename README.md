@@ -14,7 +14,7 @@ Chatbot/webapp (platform not yet final) to help Filipino citizens in finding res
 			- [ ] Insurance
      			- [ ] Banking and Fintech
         		- [ ] Healthcare
-        		- [ ] 
-	- [ ] Execute analysis 
+	- [ ] Verify Data
+ 	- [ ] Sort Data
 - [ ] BUILD
 - [ ] PUBLISH
