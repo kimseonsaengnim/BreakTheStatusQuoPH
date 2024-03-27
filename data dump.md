@@ -22,6 +22,10 @@ cpg@dti.gov.ph
 
 usssaptayo@sss.gov.ph
 
+# PhlPost
+
+customercare@phlpost.gov.ph
+
 # Insurance Commission
 https://www.insurance.gov.ph/
 
