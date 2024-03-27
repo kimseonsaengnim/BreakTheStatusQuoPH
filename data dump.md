@@ -25,9 +25,14 @@ consumer@ntc.gov.ph
 
 usssaptayo@sss.gov.ph
 
+# DFA
+
+oca.concerns@dfa.gov.ph 
+
 # PhlPost
 
 customercare@phlpost.gov.ph
+ems.cs@phlpost.gov.ph
 
 # Insurance Commission
 https://www.insurance.gov.ph/
