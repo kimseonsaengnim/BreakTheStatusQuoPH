@@ -20,11 +20,23 @@ cpg@dti.gov.ph
 # NTC
 
 consumer@ntc.gov.ph
+regulation@ntc.gov.ph,
+tccwpd@gmail.com,
+legal@ntc.gov.ph,
+cwpd@ntc.gov.ph,
+commissioner@ntc.gov.ph
 
 # SSS
 
 usssaptayo@sss.gov.ph
 member_relations@sss.gov.ph
+onlineserviceassistance@sss.gov.ph
+
+# DOLE
+
+ncr@dole.gov.ph
+https://sena.dole.gov.ph/
+https://clients.ncr.dole.gov.ph/home/
 
 # DFA
 
@@ -158,4 +170,35 @@ Edit4: And another one in this link: Presidential Complaint Center
 
 Madami palang channels. Hopefully maging helpful ang mga ito to somehow voice our concerns kasi our rants in social media wont be heard unless mag viral or mashortlist ni tulfo. lol
 
+
+# DUMP: 
+
+ocadmin@quezoncity.gov.ph
+
+mayor@quezoncity.gov.ph
+
+pasay.caoffice@gmail.com
+
+pio@pasay.gov.ph
+
+digitalmmda@gmail.com
+
+digitalmedia@mmda.gov.ph
+
+
+# DUMP: Refusal of ePhilID
+
+info@philsys.gov.ph
+
+
+# DUMP: [Airfare Concerns](https://www.reddit.com/r/Philippines/comments/jfzvbt/airasia_refused_to_give_me_a_refund/) 
+
+Civil Aeronautics Board (CAB) Hotlines:
+
+CAB Legal Division - (02) 852-8967
+
+CAB Trunklines - (02) 853-7259 / 854-5996
+
+legal@cab.gov.ph
+apbr@cab.gov.ph
 
