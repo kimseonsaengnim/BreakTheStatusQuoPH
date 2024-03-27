@@ -17,6 +17,9 @@ fteb@dti.gov.ph,
 CPAB@dti.gov.ph,
 cpg@dti.gov.ph
 
+# NTC
+
+consumer@ntc.gov.ph
 
 # SSS
 
