@@ -202,3 +202,32 @@ CAB Trunklines - (02) 853-7259 / 854-5996
 legal@cab.gov.ph
 apbr@cab.gov.ph
 
+# DUMP: VAWC
+
+Violence Against Women and Children (VAWC) Hotlines
+
+POLICE/INVESTIGATION ASSISTANCE
+
+• National Emergency Hotline: 911
+
+• Aleng Pulis Hotline: 0919 777 7377
+
+• PNP Women and Children Protection Center
+
+• 24/7 AVAWCD Office: (02) 8532-6690
+
+•Email address: wcpc_pnp@yahoo.com / wcpc_vawcd@yahoo.com / avawcd.wcpc@pnp.gov.ph
+
+LEGAL ASSISTANCE
+
+• Public Attorney’s Office (PAO) Hotline: (02) 8929-9436 local 106, 107, or 159 (local “0” for operator)
+
+•Email address: pao_executive@yahoo.com
+
+REFERRAL SERVICES
+
+• Inter-Agency Council on Violence Against Women and their Children
+
+• Mobile numbers: 09178671907 | 09454558121
+
+•Email address: iacvawc@pcw.gov.ph
