@@ -18,7 +18,11 @@ CPAB@dti.gov.ph,
 cpg@dti.gov.ph
 
 
-# Insurance Commission.
+# SSS
+
+usssaptayo@sss.gov.ph
+
+# Insurance Commission
 https://www.insurance.gov.ph/
 
 publicassistance@insurance.gov.ph
@@ -67,12 +71,12 @@ mjg.dimpas@insurance.gov.ph
 
 imessagemo@sec.gov.ph
 
-From [r/phnvest] (https://www.reddit.com/r/phinvest/comments/15ehkns/a_ponzi_company_filed_a_defemation_lawsuit/)
+From [r/phnvest](https://www.reddit.com/r/phinvest/comments/15ehkns/a_ponzi_company_filed_a_defemation_lawsuit/)
 
 
 # Dump: Bank Scams
 
-From [r/phnvest] (https://www.reddit.com/r/phinvest/comments/169h3nm/goddamn_bpi_scammers/)
+From [r/phnvest](https://www.reddit.com/r/phinvest/comments/169h3nm/goddamn_bpi_scammers/)
 
 
 ### Call your respective bank customer service
