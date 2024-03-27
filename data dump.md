@@ -118,4 +118,32 @@ Incident Details (date and time of contact, mode of contact like call or text, s
 You can also include scam tactics like them asking for personal information, resetting password, etc
 
 
-# 
+# Dump: [Pasaway na Government Agency](https://www.reddit.com/r/Philippines/comments/10qbbwy/please_spread_meron_tayong_legit_na_sumbungan_pag/)
+
+Contact Center ng Bayan (CCB)
+
+Dito niyo pwede ireport ang mga government offices for any complaints and feedbacks. I once reported SSS, Bureau of Customs, and NBI kasi di nila pinapansin email inquiries ko. CCB agent immediately assisted and reported the issue to the govt agency's office of the president. Ayun, nagreply agad ang SSS and BoC within 24 hours. Yung NBI nga lang matagal magreply kahit naka ilang report and follow up na si CCB. Nireport ko kasi yung website for online NBI clearance nila na misleading, magulo instructions, at hindi gumagana yung ibang features like add profile pic and contact us option.
+
+Eto sabi sa website nila:
+
+"The Contact Center ng Bayan (CCB) is a feedback mechanism designated as the government’s main helpdesk where citizens can request for information and assistance on government frontline service procedures, and report commendations, appreciation, complaints*, and* feedback*."*
+
+10 years na palang merong CCB. Late ko na nalaman. Basta pwede magreport jan and make sure may evidence kayo, either picture or email trail. Better yet kunin niyo name ng government official para pwede mapinpoint for your complaints.
+
+And the best feature.... YOU CAN REPORT ANONYMOUSLY!!!
+
+Edit1: Since may tendency mag down ang website ni CCB, here is their email:
+
+email@contactcenterngbayan.gov.ph
+
+Edit2: Although di ko pa personally natry, meron din daw similar agency based sa comments which is called ARTA (anti-red tape authority) na pwede rin pag reportan ng feedback and complaints. Either you email them below or fill out this online form
+
+complaints@arta.gov.ph
+
+Edit3: Eto pa daw sabi sa comments, pwede rin mag file ng complaint dito:
+
+8888.gov.ph
+
+Edit4: And another one in this link: Presidential Complaint Center
+
+Madami palang channels. Hopefully maging helpful ang mga ito to somehow voice our concerns kasi our rants in social media wont be heard unless mag viral or mashortlist ni tulfo. lol
