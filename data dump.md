@@ -24,10 +24,12 @@ consumer@ntc.gov.ph
 # SSS
 
 usssaptayo@sss.gov.ph
+member_relations@sss.gov.ph
 
 # DFA
 
 oca.concerns@dfa.gov.ph 
+passportconcerns@dfa.gov.ph
 
 # PhlPost
 
@@ -155,3 +157,5 @@ Edit3: Eto pa daw sabi sa comments, pwede rin mag file ng complaint dito:
 Edit4: And another one in this link: Presidential Complaint Center
 
 Madami palang channels. Hopefully maging helpful ang mga ito to somehow voice our concerns kasi our rants in social media wont be heard unless mag viral or mashortlist ni tulfo. lol
+
+
